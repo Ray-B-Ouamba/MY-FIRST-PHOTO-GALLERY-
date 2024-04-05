@@ -10,12 +10,10 @@ We have build Ray's gallery Website so he can present his work and engage in mar
 * CSS.
 
 ## OPTIMIZATIONS:
-* Utilize CSS flex-box property. 
-
+* Add some JavaScript to make it more interactive.
 
 ## LESSONS LEARNED:
 * Utilize CSS flex-box property. 
-
 
 ## SIMILAR PROJECT:
 
