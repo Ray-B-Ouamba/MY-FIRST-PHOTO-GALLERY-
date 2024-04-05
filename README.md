@@ -9,6 +9,9 @@ We have build Ray's gallery Website so he can present his work and engage in mar
 * HTML,
 * CSS.
 
+## OPTIMIZATIONS:
+* Utilize CSS flex-box property. 
+
 
 ## LESSONS LEARNED:
 * Utilize CSS flex-box property. 
