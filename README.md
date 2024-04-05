@@ -2,7 +2,7 @@ I am becoming a self-taught Front-end web Developer.
 I have used for the first time CSS flex-box property. 
 And I have built this gallery.
 
-# RAYB.GALLERY WEBSITE
+# RAY B.GALLERY WEBSITE
 
 We have build Ray's gallery Website so he can present his work and engage in marketing, branding, and interaction.
 
