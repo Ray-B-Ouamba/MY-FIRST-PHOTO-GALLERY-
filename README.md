@@ -11,7 +11,7 @@ We have build Ray's gallery Website so he can present his work and engage in mar
 **TECH USED:** 
 * HTML,
 * CSS.
-* JavaScript
+
 
 ## LESSONS LEARNED:
 * Utilize the "setInterval" function."
