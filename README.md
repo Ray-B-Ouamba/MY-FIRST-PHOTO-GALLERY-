@@ -1,7 +1,7 @@
 
 # RAY B.GALLERY WEBSITE
 
-We have build Ray's gallery Website so he can present his work and engage in marketing, branding, and interaction.
+We have build Ray's gallery Website so he can present his work and engage in marketing, branding, and 
 
 **PROJECT LINK:** https://ray-b-ouamba.github.io/RAYFLAMME-GALLERY-WEBSITE/
 
