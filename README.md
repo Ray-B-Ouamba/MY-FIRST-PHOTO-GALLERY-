@@ -15,7 +15,7 @@ We have build Ray's gallery Website so he can present his work and engage in mar
 
 ## LESSONS LEARNED:
 * Utilize CSS flex-box property. 
-* use the method " addEventListener."
+
 
 ## SIMILAR PROJECT:
 
