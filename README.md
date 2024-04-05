@@ -2,9 +2,9 @@ I am becoming a self-taught Front-end web Developer.
 I have used for the first time CSS flex-box property. 
 And I have built this gallery.
 
-# COFFEE-CULTURE-WITH-DYNAMIC-MENU-BACKGROUND-IMAGES
+# RAYFRAME GALLERY WEBSITE
 
-We have build a coffee culture with a rotate background images to make it easier for patrons to understand what meals and drinks the café serves.
+We have build Ray's gallery Website so he can present his work and engage in marketing, branding, and interaction.
 
 **PROJECT LINK:** https://ray-b-ouamba.github.io/COFFEE-CULTURE-WITH-DYNAMIC-MENU-BACKGROUND-IMAGES/
 
