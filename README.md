@@ -14,7 +14,7 @@ We have build Ray's gallery Website so he can present his work and engage in mar
 
 
 ## LESSONS LEARNED:
-* Utilize the "setInterval" function."
+* Utilize CSS flex-box property. 
 * use the method " addEventListener."
 
 ## SIMILAR PROJECT:
