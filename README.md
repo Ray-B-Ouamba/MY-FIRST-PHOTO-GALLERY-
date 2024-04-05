@@ -1,5 +1,5 @@
 
-# RAY B.GALLERY WEBSITE
+# RAYFLAMME-GALLERY-WEBSITE
 
 We have build Ray's gallery Website so he can present his work and engage in marketing, branding, and interaction.
 
